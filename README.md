@@ -1,7 +1,8 @@
 # S5 BUT NORD FRANCHE COMTE
 
 
-Projet de départ pour un cours sur le nouveau SQL : NodeJS + DB + REDIS
+Projet de départ pour le cours Nouvelles bases de données: NodeJS + NoSQL
+
 
 ### Setup
 - Utilisez NodeJS version 16+
