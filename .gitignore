@@ -3,4 +3,4 @@ nohup.out
 .DS_Store
 .env
 .idea
-
+package-lock.json
